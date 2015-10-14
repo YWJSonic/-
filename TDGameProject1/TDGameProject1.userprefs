@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\KF Project\Trunk3\Client\iDevKF\Assets\Scripts\Game\Pvp\PvpRankBattle.cs">
+    <Files>
+      <File FileName="..\..\KF Project\Trunk3\Client\iDevKF\Assets\Scripts\Game\MessageHandler.cs" Line="1065" Column="34" />
+      <File FileName="..\..\KF Project\Trunk3\Client\iDevKF\Assets\Scripts\Game\Pvp\PvpRankBattle.cs" Line="725" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\KF Project\Trunk3\Client\iDevKF\Assets\Scripts\Game\Pvp\PvpRankBattle.cs" line="724" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
